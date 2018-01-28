@@ -1,0 +1,80 @@
+@import url(http://fonts.googleapis.com/css?family=Raleway:400,500);
+
+.heading{
+ text-align: center;
+  font-size: 5em;
+  font-weight: 10;
+  font-family: 'Berkshire Swash', cursive;
+  color: #200159;
+}
+.text-background{
+  background-color:#dbef94;
+}
+.after {
+  background: url(https://www.unlitips.com/wp-content/uploads/2017/05/Healthy-Food-Choices-for-Optimal-Health.jpg);
+  background-position: center;
+background-size:100%;
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+
+  z-index: auto;
+}
+.down{
+  text-align: auto;
+   font-size: 1.5em;
+   font-weight: 10;
+   font-family: 'Source Sans Pro', sans-serif;
+   color: #fff;
+   background-color: #200159;
+   opacity: 0.5;
+}
+.buttons {
+content="";
+  font-size: 2em;
+  font-weight: 3;
+  font-family: 'Berkshire Swash', cursive;
+  color: #200159;
+      border: none;
+      text-align: center;
+      font-size: 25px;
+}
+.breakfast{
+  background-image: url(https://www.simplyquinoa.com/wp-content/uploads/strawberry-quinoa-cereal-4.jpg);
+background-size: auto;
+opacity: 0.1;
+  background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: center;
+
+  z-index: auto;
+}
+.benefits{
+  font-size: 1em;
+  font-weight: 2;
+font-family: 'Stencil Std',fantasy;
+  color: #200159;
+      border: none;
+      text-align: left;
+      font-size: 25px;
+}
+.dishes{
+    font-size: 1.5em;
+    font-weight: 5;
+    font-family: 'Berkshire Swash', cursive;
+    color: #200159;
+        border: none;
+        text-align: center;
+        font-size: 30px;
+}
+.pointers {
+
+  font-size: 2em;
+  font-weight: 3;
+  font-family: 'Berkshire Swash', cursive;
+  color: #200159;
+      border: none;
+      font-size: 25px;
+}
